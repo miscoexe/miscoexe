@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miscoexe
 - 👀 I’m interested in IT and Cybersecurity
-- 🌱 I’m currently learning Python
-- 📫 How to reach me... idk..
+- 🌱 I’m currently learning Python and Powershell
 - ⚡ Fun fact: Eurovision expert.
 
 <!---
