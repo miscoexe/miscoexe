@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT-operation and security student
 ---------------------------------
 
-I've been coding for about 4 years, on and off. But now i'm doing mainly Python. I have experience with HTML, CSS and Javascript og i really want to learn C++
+I've been coding for about 4 years, on and off. But now i'm doing mainly Python. I have experience with HTML, CSS and Javascript og I really want to learn C++
 
 * 🌍  I'm based in EU
-* 🖥️  See my portfolio at [https://app.daily.dev/pabloexe](http://app.daily.dev/pabloexe)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on different projects
 
