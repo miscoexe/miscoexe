@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo
 =============================================================================================================================
 
-IT-operation and security student
+It-Support guy
 ---------------------------------
 
-I've been coding for about 4 years, on and off. But now i'm doing mainly Python. I have experience with HTML, CSS and Javascript og I really want to learn C++
+I've been coding for about 5 years, on and off. But now i'm doing mainly Python. I have experience with HTML, CSS and Javascript and i'm learing C and want to learn C++ in the future
+
 
 * 🌍  I'm based in EU
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on different projects
+* 🧠  I'm learning Python (kinda)
+* 🤝  just being me
 
 ### Skills
 
